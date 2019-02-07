@@ -1,0 +1,14 @@
+class Even
+{
+public static void main(String args[])
+{
+int i;
+System.out.println("Even no from 40 to 60");
+    for(i=70; i<=89; ) 
+    { 
+    	System.out.println(i);
+    	i = i + 2;
+	
+	}
+}
+} 
